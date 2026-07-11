@@ -2,6 +2,10 @@
 
 Herramienta estatica y gratuita para estimar cuanto cobrar por hora, dia o proyecto.
 
+Usar la calculadora:
+
+https://renadcr.github.io/calculadora-tarifa-freelance/
+
 La calculadora trabaja solo en el navegador y no guarda datos. Incluye enlaces a:
 
 - Producto completo USD 5: https://payhip.com/b/LVQYH
